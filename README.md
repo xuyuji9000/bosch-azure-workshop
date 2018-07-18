@@ -1,0 +1,1 @@
+# bosch-azure-workshop
