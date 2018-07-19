@@ -44,8 +44,19 @@ Use [express generator](https://expressjs.com/en/starter/generator.html) create 
 
 ## 第六步：创建一个Azure中国账号
 
-[Azure 中国](https://www.azure.cn/zh-cn/)
+[Azure 中国](https://www.azure.cn/zh-cn/).
 
-## 第七步：创建一个Azure应用服务
+这个步骤会需要你的身份证信息来完成注册。
+
+## 第七步：创建一个Azure应用服务(App Service)
+
+手动在控制台创建一个Azure应用服务.
+
+<img width="1001" alt="screen shot 2018-07-19 at 8 22 37 am" src="https://user-images.githubusercontent.com/4877346/42914506-4ac38f74-8b2d-11e8-8a08-1508ff3f5daf.png">
 
 ## 第八步：部署Github代码库到Azure
+
+将Github代码库关联到应用服务.
+
+<img width="898" alt="screen shot 2018-07-19 at 8 24 51 am" src="https://user-images.githubusercontent.com/4877346/42914519-5842b88c-8b2d-11e8-8d05-343902746126.png">
+
